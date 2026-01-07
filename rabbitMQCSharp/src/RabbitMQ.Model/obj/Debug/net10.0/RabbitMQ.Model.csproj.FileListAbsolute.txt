@@ -1,0 +1,11 @@
+D:\converter_pdf_c\conversor_visual\rabbitMQCSharp\src\RabbitMQ.Model\bin\Debug\net10.0\RabbitMQ.Model.deps.json
+D:\converter_pdf_c\conversor_visual\rabbitMQCSharp\src\RabbitMQ.Model\bin\Debug\net10.0\RabbitMQ.Model.dll
+D:\converter_pdf_c\conversor_visual\rabbitMQCSharp\src\RabbitMQ.Model\bin\Debug\net10.0\RabbitMQ.Model.pdb
+D:\converter_pdf_c\conversor_visual\rabbitMQCSharp\src\RabbitMQ.Model\obj\Debug\net10.0\RabbitMQ.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\converter_pdf_c\conversor_visual\rabbitMQCSharp\src\RabbitMQ.Model\obj\Debug\net10.0\RabbitMQ.Model.AssemblyInfoInputs.cache
+D:\converter_pdf_c\conversor_visual\rabbitMQCSharp\src\RabbitMQ.Model\obj\Debug\net10.0\RabbitMQ.Model.AssemblyInfo.cs
+D:\converter_pdf_c\conversor_visual\rabbitMQCSharp\src\RabbitMQ.Model\obj\Debug\net10.0\RabbitMQ.Model.csproj.CoreCompileInputs.cache
+D:\converter_pdf_c\conversor_visual\rabbitMQCSharp\src\RabbitMQ.Model\obj\Debug\net10.0\RabbitMQ.Model.dll
+D:\converter_pdf_c\conversor_visual\rabbitMQCSharp\src\RabbitMQ.Model\obj\Debug\net10.0\refint\RabbitMQ.Model.dll
+D:\converter_pdf_c\conversor_visual\rabbitMQCSharp\src\RabbitMQ.Model\obj\Debug\net10.0\RabbitMQ.Model.pdb
+D:\converter_pdf_c\conversor_visual\rabbitMQCSharp\src\RabbitMQ.Model\obj\Debug\net10.0\ref\RabbitMQ.Model.dll
